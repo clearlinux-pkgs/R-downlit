@@ -7,7 +7,7 @@
 #
 Name     : R-downlit
 Version  : 0.4.4
-Release  : 35
+Release  : 36
 URL      : https://cran.r-project.org/src/contrib/downlit_0.4.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/downlit_0.4.4.tar.gz
 Summary  : Syntax Highlighting and Automatic Linking
